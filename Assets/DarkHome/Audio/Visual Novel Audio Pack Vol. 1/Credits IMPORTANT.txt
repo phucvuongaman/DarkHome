@@ -1,0 +1,44 @@
+UI SFX and Transitions licence: https://creativecommons.org/licenses/by/4.0/
+You're free to use and remix, transform, and build upon the material for any purpose, even commercially.
+You have to give credit.
+
+Licence for the rest of the pieces and songs: https://creativecommons.org/licenses/by-nc/4.0/
+You're free to use them for non-commercial projects and remix/transform the pieces (for example converting them into different formats/trimming them etc.), but you have to give credit.
+You can't: Use the originals or the remixed/transformed pieces commercially.
+___________________________________________________________________________________
+Crediting Form (don't include the things in brackets of course ^^):
+
+Visual Novel Audio Pack
+
+Composer [Not needed if you've only used the UI SFX]
+Tim Reichert
+
+Sound Designer [Not needed if you haven't used any of the UI SFX]
+Tim Reichert
+
+Track Name [Only needed if you've used any of the tracks listed under "List of Collaborators"]
+Role: Collaborator name
+[Example:
+The Power in my Hands
+Vocalist: Terence Kern]
+
+[Use multiple instances of the "Track Name, Role: Collaborator" portion if you've used multiple pieces that are in the "List of Collaborators" section.]
+
+If you're lazy or if the instructions are too unclear then you can credit us like this
+(the former method is preferred though):
+VN Audio Pack
+Composer/Sound Designer: Tim Reichert
+Vocalist & Lyricist (I'll be Here): Eliana Z.
+Vocalist (The Power in my Hands): Terence Kern
+Vocalist (Strange Melody): Yukari
+___________________________________________________________________________________
+List of Collaborators:
+
+I'll be Here
+Vocalist & Lyricist: Eliana Z.
+
+The Power in my Hands
+Vocalist: Terence Kern
+
+Strange Melody
+Vocalist: Yukari

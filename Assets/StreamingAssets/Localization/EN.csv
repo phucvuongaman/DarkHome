@@ -1,0 +1,700 @@
+﻿TextKey,Text
+DIALOGUE_MIKA_DAY1_MORNING_1,You're up? Took you long enough.
+DIALOGUE_MIKA_DAY1_MORNING_2,Mom called. Said she'll be home late tonight. Usual stuff.
+DIALOGUE_MIKA_DAY1_MORNING_3,I'll be around if you need me.
+DIALOGUE_MIKA_DAY1_CHORE_1,Can you help me clean up a bit?
+DIALOGUE_MIKA_DAY1_CHORE_2,Thanks.
+DIALOGUE_MIKA_DAY1_DINNER_1,Dinner time. I cooked rice.
+DIALOGUE_MIKA_DAY1_DINNER_2,It's good. You like this dish, right?
+DIALOGUE_MIKA_DAY1_DINNER_3,Full yet?
+DIALOGUE_MIKA_DAY1_TV_1,Want to watch some TV?
+DIALOGUE_MIKA_DAY1_TV_2,This show's kinda boring. Whatever though.
+DIALOGUE_MIKA_DAY1_BEDTIME_1,Getting sleepy now. Let's sleep.
+DIALOGUE_MIKA_DAY1_BEDTIME_2,Sleep well.
+DIALOGUE_MIKA_DAY2_MORNING_1,Morning... Mom called again. She's working overtime.
+DIALOGUE_MIKA_DAY2_MORNING_2,Can you help with chores today? I've got things to do.
+DIALOGUE_MIKA_DAY2_MORNING_3,Thanks.
+DIALOGUE_MIKA_DAY2_COOK_HELP,Done with laundry? Good job.
+DIALOGUE_MIKA_DAY2_DINNER_1,Dinner time.
+DIALOGUE_MIKA_DAY2_DINNER_2,I'm tired. You eat, then go to bed.
+DIALOGUE_MIKA_DAY2_TV_GLITCH,...TV broken? Screen's flickering weird.
+DIALOGUE_MIKA_DAY3_MORNING_1,...
+DIALOGUE_MIKA_DAY3_MORNING_2,(She doesn't look at you. Eyes unfocused.)
+DIALOGUE_MIKA_DAY3_CONFRONT_1,Stop asking about mom.
+DIALOGUE_MIKA_DAY3_CONFRONT_A1,Something's wrong. Has been for a while.
+DIALOGUE_MIKA_DAY3_CONFRONT_A2,The photos, the food, the date... It's all... broken.
+DIALOGUE_MIKA_DAY3_CONFRONT_B1,Calendar keeps repeating. Why? Why the same day over and over?
+DIALOGUE_MIKA_DAY3_CONFRONT_C1,Mom... I don't know where she is.
+DIALOGUE_MIKA_DAY3_CONFRONT_C2,I don't think she's coming back.
+DIALOGUE_MIKA_DAY3_CONFRONT_END,We need to talk. But not now.
+DIALOGUE_MIKA_DAY3_DINNER_1,...You've noticed, haven't you?
+DIALOGUE_MIKA_DAY3_DINNER_A,Yeah... you're right. I'm scared too.
+DIALOGUE_MIKA_DAY3_DINNER_B,I know. But I don't know how to get out.
+DIALOGUE_MIKA_DAY3_DINNER_END,Let's eat. We'll figure it out.
+DIALOGUE_MIKA_DAY5_MORNING_1,You're awake.
+DIALOGUE_MIKA_DAY5_MORNING_2,It's been four years since mom died.
+DIALOGUE_MIKA_DAY5_MORNING_3,Four years you've been stuck here. In this loop.
+DIALOGUE_MIKA_DAY5_OFFER_1,I know you're scared. I'm scared too.
+DIALOGUE_MIKA_DAY5_OFFER_2,But staying here forever... that's not living.
+DIALOGUE_MIKA_DAY5_OFFER_3,You have to choose. Stay here, or move on.
+DIALOGUE_MIKA_DAY5_CHOICE_STAY,...Okay. We'll stay. Forever.
+DIALOGUE_MIKA_DAY5_CHOICE_UNSURE,You're not ready. I understand. Let's go back.
+DIALOGUE_MIKA_DAY5_CHOICE_LEAVE,I know. Let's go. Together.
+DIALOGUE_PLAYER_WAKEUP_DAY1,Another day... What should I do?
+DIALOGUE_PLAYER_WAKEUP_DAY2,Today... is anything different?
+DIALOGUE_PLAYER_WAKEUP_DAY3,Another day again. Why does this feel weird?
+DIALOGUE_PLAYER_WAKEUP_DAY4,...What's happening?
+DIALOGUE_PLAYER_BED_DAY1,Time to sleep. Tired.
+DIALOGUE_PLAYER_BED_DAY2,Sleep... doesn't feel restful.
+DIALOGUE_PLAYER_BED_DAY3,I'm afraid to sleep. Afraid of tomorrow.
+DIALOGUE_PLAYER_SOFA_EXAMINE,Old but comfy sofa. Lots of memories.
+DIALOGUE_PLAYER_TV_EXAMINE,Old TV. Still works, surprisingly.
+DIALOGUE_PLAYER_SHELF_EXAMINE,Books, photos, trinkets. A bit dusty.
+DIALOGUE_PLAYER_CANT_SLEEP,Not sleepy yet. Still have things to do.
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_01,What are you doing?
+DIALOGUE_MIKA_IDLE_RESPONSE_CHOICE_01,...
+CHOICE_TALK,Let's talk
+CHOICE_BUSY,I'm busy
+CHOICE_SILENT,(stay silent)
+DIALOGUE_MIKA_IDLE_TALK_01,Sure, what's up?
+DIALOGUE_MIKA_IDLE_BUSY_01,Alright. No problem.
+DIALOGUE_MIKA_IDLE_SILENT_01,...
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_02,I think it's a nice day.
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_03,Do you need anything?
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_01,How are you?
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_02,Have you eaten?
+DIALOGUE_MIKA_IDLE_D3_TENSION_01,...
+DIALOGUE_MIKA_IDLE_D4_TENSION_01,I don't know anymore...
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_01,It's time...
+DIALOGUE_MIKA_IDLE_GENERIC_01,Hmm...
+DIALOGUE_MIKA_IDLE_GENERIC_02,Something wrong?
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_01,The house is still like this...
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_02,Something feels off...
+DIALOGUE_PLAYER_THOUGHT_SELF_01,What am I doing?
+DIALOGUE_PLAYER_THOUGHT_DOUBT_01,Am I... even awake?
+DIALOGUE_PLAYER_EXAMINE_SOFA_L1,Old worn sofa. Mika usually sits here watching TV.
+DIALOGUE_PLAYER_EXAMINE_TV_L1,Old TV. Screen still works.
+QUEST_DAY1_MAIN_NAME,The First Day
+QUEST_DAY1_MAIN_DESC,Get familiar with the new life. Talk to Mika and complete daily tasks.
+QUEST_DAY2_MAIN_NAME,The Second Day
+QUEST_DAY2_MAIN_DESC,Another normal day. Or... is something different?
+QUEST_DAY3_MAIN_NAME,The Third Day - Realization
+QUEST_DAY3_MAIN_DESC,Something is wrong. The calendar repeats. Strange news.
+QUEST_DAY4_MAIN_NAME,The Fourth Day - The Truth
+QUEST_DAY4_MAIN_DESC,Darkness spreads. Mika frozen. The truth awaits.
+QUEST_DAY5_MAIN_NAME,The Final Day - Choice
+QUEST_DAY5_MAIN_DESC,Time to face it. Stay or leave?
+QUEST_LORE_HUNTER_NAME,Secret Hunter
+QUEST_LORE_HUNTER_DESC,Find all hidden clues in the house.
+QUEST_SIDE_MEMORY_KEEPER_NAME,Memory Keeper
+QUEST_SIDE_SILENT_OBSERVER_DESC,Detect anomalies in the environment.
+OBJ_DAY1_TALK_MIKA,Talk to Mika
+OBJ_DAY1_EXPLORE,Explore the house
+OBJ_DAY1_CLEAN,Clean the house
+OBJ_DAY1_DINNER,Eat dinner
+OBJ_DAY1_TV,Watch TV
+OBJ_DAY1_SLEEP,Go to sleep
+OBJ_DAY2_WAKE,Wake up
+OBJ_DAY2_TALK_MIKA,Talk to Mika
+OBJ_DAY2_LAUNDRY,Do laundry
+OBJ_DAY2_COOK,Cook
+OBJ_DAY2_DINNER,Eat dinner
+OBJ_DAY2_TV,Watch TV
+OBJ_DAY3_CALENDAR,Check calendar
+OBJ_DAY3_NEWS,Watch news
+OBJ_DAY3_SLEEP,Go to sleep
+OBJ_DAY4_WAKE,Wake up
+OBJ_DAY4_FIND_MIKA,Find Mika
+OBJ_DAY4_DIARY,Read diary
+OBJ_DAY4_MIRROR,Look in mirror
+OBJ_DAY4_WHISPERS,Hear whispers
+OBJ_DAY4_ESCAPE,Try to escape
+OBJ_DAY4_ACCEPTANCE,Accept
+OBJ_DAY5_WAKE,Wake up
+OBJ_DAY5_TALK_MIKA,Talk to Mika
+OBJ_DAY5_CHOICE,Make the choice
+ITEM_MILK_NAME,Fresh Milk
+ITEM_MILK_DESC,A carton of fresh milk. Nutritious.
+ITEM_COOKIE_NAME,Cookie
+ITEM_COOKIE_DESC,Sweet cookie. Tasty.
+ITEM_COFFEE_DESC,Black coffee. Alertness.
+ITEM_ENERGY_DRINK_NAME,Energy Drink
+ITEM_ENERGY_DRINK_DESC,Energy drink. Alertness but bad for health.
+ITEM_PILLS_NAME,Sleep Pills
+ITEM_PILLS_DESC,Sleep pills. Dangerous if overused.
+CHOICE_STAY,Stay
+CHOICE_LEAVE,Leave
+CHOICE_CONTINUE,Continue
+CHOICE_DAY3_AGREE,Something's very wrong
+DIALOGUE_MIKA_DAY5_FINAL_OFFER_3,Me too. We created this place. Got stuck here together.
+DIALOGUE_MIKA_DAY5_ENDING_STAY_A,Stay... okay. We'll be safe here forever.
+DIALOGUE_MIKA_DAY5_ENDING_LEAVE_A,Okay. Let's go. I'll guide you.
+DIALOGUE_MIKA_DAY5_ENDING_LEAVE_B,Painful. But real.
+DIALOGUE_MIKA_DAY5_ENDING_LEAVE_END,The light outside is blinding. But you step out.
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_A,Not ready yet... I understand.
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_B,Go back. One more time.
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_END,The loop continues. But now... you know.
+DIALOGUE_PLAYER_PHOTO1_DAY1,A family photo. Everyone's smiling.""
+DIALOGUE_PLAYER_PHOTO1_DAY2,The faces... look blurry? Or am I seeing things?""
+DIALOGUE_PLAYER_PHOTO1_DAY3,Even more blurry. I can barely recognize anyone.""
+DIALOGUE_PLAYER_PHOTO1_DAY5_BLANK,...Empty. The photo is blank.""
+DIALOGUE_PLAYER_FRIDGE_DAY1,Fridge is pretty full. Plenty of food.""
+DIALOGUE_PLAYER_FRIDGE_DAY3_EMPTY,...Empty. How is that possible?""
+DIALOGUE_PLAYER_CALENDAR_DAY1,Wall calendar. Mom's handwriting.""
+DIALOGUE_PLAYER_CALENDAR_DAY3_1,Same date. Circled three times.""
+DIALOGUE_PLAYER_CALENDAR_DAY3_2,Tomorrow... is also today?""
+DIALOGUE_PLAYER_CALENDAR_DAY3_3,Am I stuck in a loop?""
+DIALOGUE_PLAYER_MIKA_FROZEN,She's standing still like a statue. Not moving.""
+DIALOGUE_PLAYER_DIARY_READ,[Mom's diary] 'I don't have much time left...'""
+DIALOGUE_PLAYER_MIRROR_DAY1,Mirror. I look normal.""
+DIALOGUE_PLAYER_MIRROR_DAY2,I look... slightly different? Or is it just my feeling?""
+DIALOGUE_PLAYER_MIRROR_DAY3,My face... feels unfamiliar.""
+DIALOGUE_PLAYER_MIRROR_DAY4_HORROR,That's not me. THAT'S NOT ME!""
+DIALOGUE_PLAYER_DOOR_VOID,The door... leads to nothing. Emptiness.""
+DIALOGUE_TV_CARTOON_DAY1,[Cartoon] Children laughing. Normal.""
+DIALOGUE_TV_CARTOON_DAY2_GLITCH,[Cartoon] Screen flickering. Static noise.""
+LORE_NEWSPAPER_01,'Traffic accident. Family of 3 dead on scene.'""
+LORE_NOTE_01,'Remember to buy milk tomorrow. - Mom'""
+LORE_NOTE_03,'Mom hasn't come home for 2 weeks. What should we do?'""
+LORE_FINAL_NOTE,'4 years. You still won't accept it. Neither can I.'""
+DIALOGUE_MIRROR_MIKA_1,'You're not you. Who are you?'""
+DIALOGUE_MIRROR_MIKA_2,'What are you? A memory? An illusion?'""
+DIALOGUE_MIRROR_MIKA_3,'Or are you a reflection of pain?'""
+DIALOGUE_RADIO_WHISPER_DAY4,[Whisper from radio] 'Let go... let go...'""
+DIALOGUE_PLAYER_DAY1_WAKE,Another day... What should I do?""
+DIALOGUE_MIKA_DAY1_MEET_1,You're up? It's morning.""
+DIALOGUE_MIKA_DAY1_MEET_CHOICE,How are you?""
+DIALOGUE_MIKA_DAY1_CHORE_QUESTION_2,Mom's... busy. So we have to do it ourselves.""
+DIALOGUE_MIKA_DAY1_CHORE_HESITANT,Hmm... alright.""
+DIALOGUE_MIKA_DAY1_DINNER_FAMILY_CHOICE,Do you remember... when the family was whole?""
+DIALOGUE_MIKA_DAY1_FAMILY_DEFLECT,I... I don't want to talk about that.""
+DIALOGUE_MIKA_DAY1_FAMILY_SHUTDOWN,...""
+DIALOGUE_MIKA_DAY1_FAMILY_LIE,We're still together. Mom's just working.""
+DIALOGUE_MIKA_DAY1_FAMILY_LIE_2,Yeah... right. She'll be home soon.""
+DIALOGUE_MIKA_DAY1_DINNER_END,Finish eating. I'll clean up.""
+DIALOGUE_MIKA_DAY1_BEDTIME_CHOICE,Sleep well?""
+DIALOGUE_MIKA_DAY1_BEDTIME_WARM,Yeah. Sleep well. Sweet dreams.""
+DIALOGUE_MIKA_DAY1_BEDTIME_SILENT,...Good night.""
+DIALOGUE_MIKA_DAY2_MORNING_SLEEP_CHOICE,Did you sleep well?""
+DIALOGUE_PLAYER_DAY2_PHOTO_OBSERVE,...No. Something's wrong.""
+DIALOGUE_PLAYER_DAY2_PHOTO_DISMISS,Maybe it's just the lighting.""
+DIALOGUE_MIKA_DAY2_TV_ACCEPT,Maybe. The cable's old.""
+DIALOGUE_MIKA_DAY2_TV_CONCERN,...It's not just the TV. Something's wrong.""
+DIALOGUE_MIKA_DAY3_MORNING_MOOD_CHOICE,Are you okay?""
+DIALOGUE_MIKA_DAY3_MORNING_NORMAL,Yeah. I'm fine. Just tired.""
+DIALOGUE_MIKA_DAY3_MORNING_CONCERNED,I... I don't know anymore.""
+DIALOGUE_PLAYER_DAY3_CALENDAR_DISCOVER,Calendar. Same date. Three times.""
+DIALOGUE_PLAYER_DAY3_CALENDAR_DISCOVER_2,We're... repeating.""
+DIALOGUE_MIKA_DAY3_DINNER_TENSION_CHOICE,...""
+DIALOGUE_MIKA_DAY3_DINNER_NORMAL,Eat then sleep. Tomorrow will... be different.""
+DIALOGUE_MIKA_DAY3_DINNER_SILENT,...""
+DIALOGUE_MIKA_DAY4_FROZEN_FIND,(She's standing by the window. Not moving.)""
+DIALOGUE_MIKA_DAY4_FROZEN_CHOICE,...""
+DIALOGUE_MIKA_DAY4_FROZEN_ASK,Why are you here? Why can't you leave me alone?""
+DIALOGUE_PLAYER_DAY4_FROZEN_BACK,...I should go.""
+DIALOGUE_PLAYER_DAY4_DIARY_READ,[Diary] Mom knew she'd die. She wrote about us.""
+DIALOGUE_PLAYER_DAY4_DIARY_CHOICE,What should I do with this diary?""
+DIALOGUE_MIKA_DAY4_DIARY_SHOW,You found it? Let me see.""
+DIALOGUE_PLAYER_DAY4_DIARY_HIDE,No. I'm keeping it.""
+DIALOGUE_PLAYER_DAY4_DIARY_READ_MORE,I need to read all of it. I need to understand.""
+DIALOGUE_MIRROR_DAY4_MIRROR_TRUTH,[Mirror] That's not you.""
+DIALOGUE_MIRROR_DAY4_MIRROR_CHOICE,...""
+DIALOGUE_PLAYER_DAY4_MIRROR_DENY,NO! That IS me! That IS ME!""
+DIALOGUE_PLAYER_DAY4_MIRROR_ACCEPT,...I know. I'm not me.""
+DIALOGUE_PLAYER_DAY4_MIRROR_RAGE,(Smash mirror)""
+DIALOGUE_PLAYER_DAY4_ESCAPE_TRY,Door. I have to escape.""
+DIALOGUE_PLAYER_DAY4_ESCAPE_CHOICE,...""
+DIALOGUE_PLAYER_DAY4_ESCAPE_KEEP,I have to keep trying! ALL THE DOORS!""
+DIALOGUE_PLAYER_DAY4_ESCAPE_GIVE_UP,...Useless. There's no way out.""
+DIALOGUE_MIKA_DAY5_MORNING_LIE,Still trying to lie to yourself?""
+DIALOGUE_MIKA_DAY5_REGRET_CHOICE,Do you regret it?""
+DIALOGUE_MIKA_DAY5_REGRET_NO,No. This was the right choice.""
+DIALOGUE_MIKA_DAY5_REGRET_YES,Yes. But it's too late.""
+DIALOGUE_MIKA_DAY5_REGRET_UNKNOWN,I... don't know.""
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_04,Everything okay?""
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_05,I remember when we watched movies.""
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_03,Do you need anything?""
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_04,Nice weather today.""
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_05,I'm thinking about mom.""
+DIALOGUE_MIKA_IDLE_D3_TENSION_03,Everything's... wrong.""
+DIALOGUE_MIKA_IDLE_D3_TENSION_04,Do you feel strange?""
+DIALOGUE_MIKA_IDLE_D3_TENSION_05,Why does the day repeat?""
+DIALOGUE_MIKA_IDLE_D4_TENSION_02,Reality is breaking.""
+DIALOGUE_MIKA_IDLE_D4_TENSION_03,We're not real.""
+DIALOGUE_MIKA_IDLE_D4_TENSION_04,You know the truth now
+DIALOGUE_MIKA_IDLE_D4_TENSION_05,How do we escape?""
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_02,It's time to end this.""
+DIALOGUE_MIKA_IDLE_GENERIC_05,Things to do.
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_03,This house... feels different.
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_04,The air feels heavy.
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_05,Like... being trapped.
+DIALOGUE_PLAYER_THOUGHT_DOUBT_05,No way out.
+DIALOGUE_PLAYER_EXAMINE_SOFA_L2,Sofa... has new tears.
+DIALOGUE_PLAYER_EXAMINE_SOFA_L3,It's fading.
+DIALOGUE_PLAYER_EXAMINE_TV_L2,Screen flickers strangely.
+DIALOGUE_PLAYER_EXAMINE_TV_L3,TV only shows news about... me.
+DIALOGUE_PLAYER_EXAMINE_SHELF_L2,Books dustier.
+DIALOGUE_PLAYER_EXAMINE_FRIDGE_L2,Less food.
+DIALOGUE_PLAYER_EXAMINE_FRIDGE_L3,Empty. Nothing left.
+LORE_PHONE_BROKEN_L1,Phone with broken screen.
+LORE_PHONE_BROKEN_L2,Last message: 'Mom passed away.'
+LORE_PHONE_BROKEN_L3,Wallpaper: Family photo. Now shattered.
+LORE_PHONE_BROKEN_L4,Can't turn on. Completely broken.
+CHOICE_DIARY_SHOW,Show Mika
+CHOICE_DIARY_HIDE,Hide it
+CHOICE_DIARY_READ_MORE,Read all
+DIALOGUE_MIKA_DAY3_CONFRONT_CHOICE,...
+DIALOGUE_PLAYER_BED_DAY4,I'm afraid to sleep. Afraid of tomorrow.
+LORE_OWN_DIARY_L2,Last pages are torn.""
+LORE_PHOTO_ALBUM_L1,Photo album. Many torn photos.""
+LORE_PHOTO_ALBUM_L2,The faces are gone.""
+LORE_CLOCK_FROZEN_L1,Clock stopped. 3:47 PM.""
+LORE_CLOCK_FROZEN_L2,Always 3:47 PM.""
+DIALOGUE_MIKA,...""
+DIALOGUE_PLAYER_BRUISE_EXAMINE_L1,Bruise on arm. Hurts.""
+TV_LIVING,TV
+SOFA_LIVING,Sofa
+SHELF_LIVING,Bookshelf
+PHOTO_FRAME_1,...
+FRIDGE_KITCHEN,Fridge
+CALENDAR_KITCHEN,Calendar
+WASHING_MACHINE,Washing Machine
+STOVE_KITCHEN,Stove
+LAUNDRY_BASKET,Laundry Basket
+MIRROR_BATHROOM,Mirror
+RADIO_LIVING,Radio
+WINDOW_LIVING,Window
+TABLE_DINING,Dining Table
+BOOK_SHELF_1,...
+PHOTO_FRAME_2,...
+PHOTO_FRAME_3,...
+PHONE_BROKEN,Broken Phone
+CLOCK_KITCHEN,Clock
+NPC_MIKA,Mika
+BED_PLAYER,Bed
+DOOR_BEDROOM,Bedroom Door
+DIALOGUE_PLAYER_EXAMINE_SHELF_L1,Dusty bookshelf. A few old books.
+DIALOGUE_PLAYER_EXAMINE_FRIDGE_L1,Fridge full of food. At least the power's still on.
+DIALOGUE_PLAYER_EXAMINE_CALENDAR_L1,Wall calendar. Today is Monday.
+DIALOGUE_PLAYER_EXAMINE_MIRROR_L1,Mirror. I look tired.
+DIALOGUE_PLAYER_EXAMINE_WINDOW_L1,Window outside. Gloomy sky.
+DIALOGUE_PLAYER_EXAMINE_TABLE_L1,Wooden dining table. Where we eat together.
+DIALOGUE_PLAYER_EXAMINE_RADIO_L1,Old radio. Rarely used.
+DIALOGUE_PLAYER_EXAMINE_STOVE_L1,Old stove. Still works.
+DIALOGUE_PLAYER_EXAMINE_WASHING_MACHINE_L1,Washing machine. Pile of dirty clothes.
+DIALOGUE_PLAYER_EXAMINE_PHOTO_FRAME_L1,Photo of us. Mika is smiling.
+QUEST_SIDE_MEMORY_KEEPER_DESC,Check all photo frames and albums. Memories are fading.
+QUEST_SIDE_SHADOW_WATCHER_NAME,Shadow Watcher
+QUEST_SIDE_SHADOW_WATCHER_DESC,Observe Mika carefully. Something is wrong with her.
+QUEST_SIDE_SILENT_OBSERVER_NAME,Silent Observer
+QUEST_SIDE_ECHO_HUNTER_NAME,Echo Hunter
+QUEST_SIDE_ECHO_HUNTER_DESC,Listen to strange sounds in the house.
+QUEST_SIDE_TRUTH_SEEKER_NAME,Truth Seeker
+QUEST_SIDE_TRUTH_SEEKER_DESC,Combine all clues to uncover the final truth.
+OBJ_DAY1_WAKE_DESC,Wake up in bedroom
+OBJ_DAY1_TALK_MIKA_DESC,Talk to Mika
+OBJ_DAY1_EXPLORE_DESC,Explore the house
+OBJ_DAY1_CLEAN_DESC,Clean the house
+OBJ_DAY1_DINNER_DESC,Have dinner with Mika
+OBJ_DAY1_TV_DESC,Watch TV with Mika
+OBJ_DAY1_SLEEP_DESC,Go to sleep
+OBJ_DAY2_WAKE_DESC,Wake up - Day 2
+OBJ_DAY2_TALK_MIKA_DESC,Morning talk with Mika
+OBJ_DAY2_LAUNDRY_DESC,Do laundry
+OBJ_DAY2_COOK_DESC,Cook food
+OBJ_DAY2_DINNER_DESC,Have dinner
+OBJ_DAY2_TV_DESC,Watch TV
+OBJ_DAY2_SLEEP_DESC,Go to sleep
+OBJ_DAY3_WAKE_DESC,Wake up - Day 3
+OBJ_DAY3_TALK_MIKA_DESC,Talk to Mika
+OBJ_DAY3_CALENDAR_DESC,Check calendar
+OBJ_DAY3_NEWS_DESC,Watch news on TV
+OBJ_DAY3_CONFRONT_DESC,Confront Mika
+OBJ_DAY3_DINNER_DESC,Have dinner
+OBJ_DAY3_SLEEP_DESC,Go to sleep
+OBJ_DAY4_WAKE_DESC,Wake up in darkness
+OBJ_DAY4_FIND_MIKA_DESC,Find Mika
+OBJ_DAY4_DIARY_DESC,Read diary under bed
+OBJ_DAY4_MIRROR_DESC,Face the mirror
+OBJ_DAY4_WHISPERS_DESC,Hear whispers
+OBJ_DAY4_ESCAPE_DESC,Try to escape
+OBJ_DAY4_ACCEPTANCE_DESC,Accept the truth
+OBJ_DAY5_WAKE_DESC,Wake up - Final day
+OBJ_DAY5_TALK_MIKA_DESC,Final conversation
+OBJ_DAY5_CHOICE_DESC,Make your choice
+OBJ_LORE_NEWSPAPER01_DESC,Find old newspaper
+OBJ_LORE_NOTE01_DESC,Read note 1
+OBJ_LORE_NOTE03_DESC,Read note 3
+OBJ_LORE_FINAL_NOTE_DESC,Find final note
+OBJ_LORE_TV_BROADCAST_DESC,Watch special broadcast
+OBJ_LORE_PHOTO_BLUR_DESC,Notice photos blurring
+OBJ_LORE_FRIDGE_EMPTY_DESC,Realize fridge is empty
+OBJ_LORE_CALENDAR_LOOP_DESC,Discover calendar loop
+OBJ_LORE_DIARY_DESC,Read mysterious diary
+OBJ_LORE_MIRROR_DESC,Discover truth in mirror
+OBJ_LORE_WHISPERS_DESC,Listen to whispers
+OBJ_LORE_VOID_DESC,Face the Void
+DIALOGUE_MIKA_IDLE_D3_TENSION_02,I'm thinking about mom...
+DIALOGUE_PLAYER_EXAMINE_DOOR_L1,The front door.
+OBJ_DAY1_WAKE,Wake up
+OBJ_DAY2_SLEEP,Go to sleep
+OBJ_DAY3_WAKE,Wake up
+OBJ_DAY3_TALK_MIKA,Talk to Mika
+OBJ_DAY3_CONFRONT,Confront Mika
+OBJ_DAY3_DINNER,Eat dinner
+ITEM_APPLE_NAME,Apple
+ITEM_APPLE_DESC,A fresh apple.
+ITEM_RICE_BALL_NAME,Rice Ball
+ITEM_RICE_BALL_DESC,Simple rice ball.
+ITEM_COFFEE_NAME,Coffee
+CHOICE_DAY3_ASK_MOM,Where is mom?
+CHOICE_DAY3_ASK_LOOP,Why the same day?
+CHOICE_DAY5_ACCEPT,Accept the truth
+CHOICE_DAY5_DENY,Deny
+DIALOGUE_MIKA_DAY5_FINAL_OFFER_1,The truth is... we lost mom long ago.
+DIALOGUE_MIKA_DAY5_FINAL_OFFER_2,And you... you've been living in an illusion. Running away.
+DIALOGUE_MIKA_DAY5_ENDING_STAY_B,Tomorrow. And the day after. Forever.
+DIALOGUE_MIKA_DAY5_ENDING_STAY_END,Warm. Comfortable. A lie.
+DIALOGUE_PLAYER_TO_MIKA_DAY4,...Mika. We need to talk.
+DIALOGUE_PLAYER_WINDOW_DAY5,Outside... that's the real world.
+DIALOGUE_TV_NEWS_DAY3_1,[NEWS] Breaking: Child missing for 3 days.
+DIALOGUE_TV_NEWS_DAY3_2,[NEWS] Parents deceased. Child living alone.
+DIALOGUE_TV_NEWS_DAY3_3,[NEWS] Search ongoing... Photo...
+DIALOGUE_MIKA_DAY1_MEET_RESPONSE_A,Yeah. I'm fine. I'm here.
+DIALOGUE_MIKA_DAY1_MEET_RESPONSE_B,I'm glad you're okay.
+DIALOGUE_MIKA_DAY1_MEET_RESPONSE_C,...Alright. I understand.
+DIALOGUE_MIKA_DAY1_CHORE_ASK,Can you help me clean up?
+DIALOGUE_MIKA_DAY1_CHORE_CHOICE,...
+DIALOGUE_MIKA_DAY1_CHORE_ACCEPT,Thanks. I appreciate it.
+DIALOGUE_MIKA_DAY1_CHORE_QUESTION,Why? Mom used to do it.
+DIALOGUE_MIKA_DAY2_SLEEP_HONEST,No... I dreamed about something.
+DIALOGUE_MIKA_DAY2_SLEEP_HONEST_2,Me too. Sleep wasn't restful.
+DIALOGUE_MIKA_DAY2_SLEEP_NEUTRAL,Normal.
+DIALOGUE_MIKA_DAY2_SLEEP_AVOID,I slept fine.
+DIALOGUE_PLAYER_DAY2_PHOTO_BLUR_NOTICE,The photo... blurrier than yesterday.
+DIALOGUE_PLAYER_DAY2_PHOTO_CHOICE,What should I do?
+DIALOGUE_MIKA_DAY2_PHOTO_ASK_MIKA,Photo? It looks the same to me.
+DIALOGUE_MIKA_DAY2_COOK_ASK,Cook together?
+DIALOGUE_MIKA_DAY2_COOK_CHOICE,...
+DIALOGUE_MIKA_DAY2_COOK_TOGETHER,Good. I like cooking with you.
+DIALOGUE_MIKA_DAY2_COOK_ALONE,Alright. I'll do it myself.
+DIALOGUE_MIKA_DAY2_TV_GLITCH_CHOICE,TV broken?
+DIALOGUE_MIKA_DAY4_MIKA_APPEAR,Stop. You can't escape.
+DIALOGUE_MIKA_DAY4_FINAL_TALK_CHOICE,...
+DIALOGUE_PLAYER_DAY4_ACCEPT,I... accept it.
+DIALOGUE_PLAYER_DAY4_RESIST,NO! I DON'T ACCEPT THIS!
+DIALOGUE_MIKA_DAY5_MORNING_CHOICE,...
+DIALOGUE_PLAYER_DAY5_MORNING_SILENT,...
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_03,Are you ready?
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_04,Stay or leave?
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_05,The final decision.
+CHOICE_MEET_GUARDED,...Yeah
+DIALOGUE_MIKA_IDLE_GENERIC_03,...
+DIALOGUE_MIKA_IDLE_GENERIC_04,I'm thinking.
+DIALOGUE_PLAYER_THOUGHT_SELF_02,Am I dreaming?
+DIALOGUE_PLAYER_THOUGHT_SELF_03,Is this real?
+DIALOGUE_PLAYER_THOUGHT_SELF_04,Who am I?
+DIALOGUE_PLAYER_THOUGHT_SELF_05,My memories... fade.
+DIALOGUE_PLAYER_THOUGHT_DOUBT_02,Why does the day keep repeating?
+DIALOGUE_PLAYER_THOUGHT_DOUBT_03,The news... about me?
+DIALOGUE_PLAYER_THOUGHT_DOUBT_04,The mirror says I'm not me.
+DIALOGUE_PLAYER_EXAMINE_CALENDAR_L2,Calendar. Circled again.
+DIALOGUE_PLAYER_EXAMINE_MIRROR_L2,My face... more blurry.
+DIALOGUE_PLAYER_EXAMINE_DOOR_L2,Door. Won't open.
+DIALOGUE_PLAYER_EXAMINE_WINDOW_L2,Window. Nothing outside.
+LORE_SCHOOL_BAG_L1,Old schoolbag. My name.
+LORE_SCHOOL_BAG_L2,Inside: worn notebooks.
+LORE_SCHOOL_BAG_L3,Student ID: my photo. Issued... 4 years ago.
+DIALOGUE_PLAYER_DAY2_WAKE,Today... is anything different?
+DIALOGUE_PLAYER_WAKEUP_DAY5,...What's happening?
+DIALOGUE_PLAYER_BRUISE_EXAMINE_L2,This bruise... where did it come from?
+LORE_OWN_DIARY_L1,[Personal diary] 'I remember... something.'
+LORE_OWN_DIARY_L3,Shaky handwriting: 'Mom is dead. DEAD!'
+LORE_REPORT_CARD_L1,Old report card. All F's.
+LORE_REPORT_CARD_L2,Teacher's note: 'Need to meet parents.'
+LORE_PHONE_CHARGER_L1,Phone charger. No phone.
+LORE_PHONE_CHARGER_L2,The phone... where is it?
+CHOICE_CHORE_ACCEPT,Sure, okay
+CHOICE_CHORE_QUESTION,Why can't mom do it?
+CHOICE_CHORE_HESITANT,Hmm... let me think
+CHOICE_FAMILY_DEFLECT,Let it go...
+CHOICE_FAMILY_SHUTDOWN,(stay silent)
+CHOICE_FAMILY_LIE,Yeah... mom's coming back soon
+CHOICE_BEDTIME_WARM,Thanks. Good night
+CHOICE_BEDTIME_SILENT,(say nothing)
+CHOICE_SLEEP_HONEST,No... I dreamed something
+CHOICE_SLEEP_NEUTRAL,Normal
+CHOICE_SLEEP_AVOID,Fine
+CHOICE_PHOTO_ASK,Ask Mika about the photo
+CHOICE_PHOTO_OBSERVE,Look more carefully
+CHOICE_PHOTO_DISMISS,Probably just the lighting
+CHOICE_COOK_TOGETHER,Cook together
+CHOICE_COOK_ALONE,You do it yourself
+CHOICE_TV_ACCEPT,Yeah, old cable
+CHOICE_TV_CONCERN,It's not just the TV
+CHOICE_MORNING_NORMAL,Are you okay?
+CHOICE_MORNING_CONCERNED,You don't look well
+CHOICE_DINNER_NORMAL,Let's eat
+CHOICE_DINNER_SILENT,(silence)
+CHOICE_FROZEN_ASK,Mika... what are you doing?
+CHOICE_FROZEN_BACK,I should leave
+CHOICE_MIRROR_DENY,NO! That IS me!
+CHOICE_MIRROR_ACCEPT,(accept)
+CHOICE_MIRROR_RAGE,(smash mirror)
+CHOICE_ESCAPE_KEEP_TRYING,Keep trying! All the doors!
+CHOICE_ESCAPE_GIVE_UP,It's useless
+CHOICE_ACCEPT_STAY,(accept)
+CHOICE_RESIST,NO!
+CHOICE_MORNING_SILENT,(silence)
+CHOICE_MORNING_LIE,Everything's fine
+CHOICE_REGRET_NO,No. This was right
+CHOICE_REGRET_YES,Yes. But it's too late
+CHOICE_REGRET_UNKNOWN,I... don't know
+DIALOGUE_MIKA_DAY1_AFTER_CHORE_HINT,Mom usually comes home around now... to cook dinner.
+DIALOGUE_MIKA_DAY1_AFTER_CHORE_HINT_2,Well. I'll handle it.
+DIALOGUE_PLAYER_WAKE_D1_1,Mmm... what time is it?
+DIALOGUE_PLAYER_WAKE_D1_2,The afternoon light... I slept too long.
+DIALOGUE_PLAYER_WAKE_D1_3,This room... it's so quiet.
+DIALOGUE_PLAYER_WAKE_D1_4,Soft blanket. Warm bed. I haven't slept this well in a long time.
+DIALOGUE_PLAYER_WAKE_D1_5,Oh right. I'm here now. With Mika.
+DIALOGUE_MIKA_DAY1_MORNING_1,Oh — you're up! Did you sleep well?
+DIALOGUE_MIKA_DAY1_MORNING_2,Almost three hours! You must have been exhausted.
+DIALOGUE_MIKA_DAY1_MORNING_3,That's okay. Just make yourself at home.
+DIALOGUE_MIKA_DAY1_MORNING_4,Hey, are you hungry? I already cooked.
+DIALOGUE_MIKA_DAY1_MORNING_CHOICE,Come on, eat up.
+DIALOGUE_MIKA_DAY1_MORNING_RESP,Ha ha — don't be shy! We're... family now.
+DIALOGUE_MIKA_DAY1_MORNING_RESP_SILENT,Alright. Come find me when you're hungry.
+DIALOGUE_MIKA_DAY1_MORNING_5,After eating, feel free to explore the house.
+DIALOGUE_MIKA_DAY1_MORNING_6,I'll be busy for a bit. Just call me if you need anything!
+DIALOGUE_MIKA_DAY1_IDLE_EXPLORE_1,Just make yourself at home. I'm a little busy.
+DIALOGUE_MIKA_DAY1_IDLE_EXPLORE_2,It's not a big house, but... it's warm, right?
+DIALOGUE_MIKA_DAY1_CHORE_ASK,Hey, you free for a moment?
+DIALOGUE_MIKA_DAY1_CHORE_ASK_2,I'm a bit tied up. Could you put the laundry in the basket? Call me when done!
+DIALOGUE_MIKA_DAY1_CHORE_CHOICE,It's simple, you can do it!
+DIALOGUE_MIKA_DAY1_CHORE_ACCEPT,Thank you! Good job.
+DIALOGUE_MIKA_DAY1_CHORE_QUESTION,Mom's... busy with other things. You can help me though.
+DIALOGUE_MIKA_DAY1_CHORE_QUESTION_2,That's the spirit! Call me when you're done.
+DIALOGUE_MIKA_DAY1_CHORE_HESITANT,It's not hard — just try, you can do it.
+DIALOGUE_MIKA_DAY1_AFTER_CHORE_HINT,Mom used to come home around this time... to cook dinner.
+DIALOGUE_MIKA_DAY1_AFTER_CHORE_HINT_2,I'll take care of it this time.
+DIALOGUE_MIKA_DAY1_IDLE_PRE_CLEAN_1,Take your time. I'm getting dinner ready.
+DIALOGUE_MIKA_DAY1_DINNER_1,Dinner's ready! Come eat.
+DIALOGUE_MIKA_DAY1_DINNER_2,I made this braised pork since this morning. Hope it's good.
+DIALOGUE_MIKA_DAY1_DINNER_3,So? Is it good?
+DIALOGUE_MIKA_DAY1_DINNER_4,Good. From now on, I'll cook for you every day.
+DIALOGUE_MIKA_DAY1_DINNER_5,This is your home now. Just... feel at home here.
+DIALOGUE_MIKA_DAY1_DINNER_FAMILY_CHOICE,We'll just eat together, don't overthink it.
+DIALOGUE_MIKA_DAY1_FAMILY_DEFLECT,...Oh. Never mind.
+DIALOGUE_MIKA_DAY1_FAMILY_SHUTDOWN,...I see. It's fine if you don't want to talk.
+DIALOGUE_MIKA_DAY1_FAMILY_LIE,Right... yeah. Mom will be home soon.
+DIALOGUE_MIKA_DAY1_TV_1,Want to watch some TV? There's a good cartoon on.
+DIALOGUE_MIKA_DAY1_TV_2,I used to watch this when I was little. Fun, right?
+DIALOGUE_MIKA_DAY1_TV_3,...Nice. Do you like it?
+DIALOGUE_MIKA_DAY1_BEDTIME_1,It's late. Time for bed.
+DIALOGUE_MIKA_DAY1_BEDTIME_2,There's still a lot to do tomorrow.
+DIALOGUE_MIKA_DAY1_BEDTIME_CHOICE,Sleep well.
+DIALOGUE_MIKA_DAY1_BEDTIME_WARM,Goodnight. You too.
+DIALOGUE_MIKA_DAY1_BEDTIME_SILENT,...Goodnight.
+DIALOGUE_PLAYER_BED_D1_1,First day...
+DIALOGUE_PLAYER_BED_D1_2,Things are... better than I expected.
+DIALOGUE_PLAYER_BED_D1_3,Mika is kind. The house is warm.
+DIALOGUE_PLAYER_BED_D1_4,Maybe... I'll be okay.
+DIALOGUE_PLAYER_BED_D1_5,...But why is the front door locked?
+DIALOGUE_PLAYER_BED_D1_6,Mika said it's for safety. Right.
+DIALOGUE_PLAYER_BED_D1_7,Overthinking again. Sleep now.
+DIALOGUE_MIKA_DAY2_MORNING_1,You're up early! Sleep okay?
+DIALOGUE_MIKA_DAY2_MORNING_2,Good. Oh — mom called earlier. Said she'll be home late, busy with work.
+DIALOGUE_MIKA_DAY2_MORNING_3,But it's okay. We have each other. Did you dream anything strange?
+DIALOGUE_MIKA_DAY2_MORNING_SLEEP_CHOICE,...Tell me.
+DIALOGUE_MIKA_DAY2_SLEEP_HONEST,Dreams? That's normal. Go back to sleep if you want.
+DIALOGUE_MIKA_DAY2_SLEEP_NEUTRAL,I see. Well. Help me with a few things today, okay?
+DIALOGUE_MIKA_DAY2_SLEEP_AVOID,Right... good. Breakfast?
+DIALOGUE_PLAYER_DAY2_PHOTO_1,That photo...
+DIALOGUE_PLAYER_DAY2_PHOTO_2,It wasn't this blurry yesterday. The other face... completely faded now.
+DIALOGUE_PLAYER_DAY2_PHOTO_CHOICE,...Maybe my eyes are just tired?
+DIALOGUE_MIKA_DAY2_PHOTO_ANSWER,The photo? Humidity warps old prints. Don't worry about it.
+DIALOGUE_PLAYER_DAY2_PHOTO_OBSERVE,...Looking closer. This isn't just lighting.
+DIALOGUE_PLAYER_DAY2_PHOTO_DISMISS,...Forget it. Old photo.
+DIALOGUE_MIKA_DAY2_COOK_1,Hey — can you help me with cooking?
+DIALOGUE_MIKA_DAY2_COOK_CHOICE,Cook with me or on your own?
+DIALOGUE_MIKA_DAY2_COOK_TOGETHER,I'll show you. You wash the rice first.
+DIALOGUE_MIKA_DAY2_COOK_ALONE,Alright. Call me when done.
+DIALOGUE_MIKA_DAY2_EVENING_1,...Are you having a good time? Everything okay?
+DIALOGUE_MIKA_DAY2_EVENING_2,...Good.
+DIALOGUE_MIKA_DAY2_TV_GLITCH_1,...Old TV. It does that sometimes.
+DIALOGUE_MIKA_DAY2_TV_GLITCH_CHOICE,Nothing to worry about. Keep watching.
+DIALOGUE_MIKA_DAY2_TV_ACCEPT,Yeah, just old cables. Nothing serious.
+DIALOGUE_MIKA_DAY2_TV_CONCERN,...This house is... perfectly normal.
+DIALOGUE_MIKA_DAY2_BEDTIME_1,Go to bed. Big day tomorrow.
+DIALOGUE_MIKA_DAY3_MORNING_1,...Morning. Sleep alright?
+DIALOGUE_MIKA_DAY3_MORNING_MOOD_CHOICE,I need... a little time alone today. You'll manage on your own?
+DIALOGUE_MIKA_DAY3_MORNING_NORMAL,...Yeah. Take care of yourself today.
+DIALOGUE_MIKA_DAY3_MORNING_CONCERNED,...I'm fine. Just tired.
+DIALOGUE_MIKA_DAY3_CONFRONT_1,...What?
+DIALOGUE_MIKA_DAY3_CONFRONT_CHOICE,...Say whatever you need to say.
+DIALOGUE_MIKA_DAY3_CONFRONT_A,You shouldn't watch TV. That's an old broadcast. They replay it sometimes.
+DIALOGUE_MIKA_DAY3_CONFRONT_B,The calendar? I bought the wrong one. Forgot to change it.
+DIALOGUE_MIKA_DAY3_CONFRONT_C,...I don't know what you're talking about.
+DIALOGUE_MIKA_DAY3_DINNER_1,...Let's eat.
+DIALOGUE_MIKA_DAY3_DINNER_TENSION_CHOICE,...
+DIALOGUE_MIKA_DAY3_DINNER_NORMAL,...Right. Eat.
+DIALOGUE_MIKA_DAY3_DINNER_SILENT,...
+DIALOGUE_MIKA_DAY3_BEDTIME_1,Sleep. Tomorrow will be better.
+DIALOGUE_MIKA_DAY4_FROZEN_1,...
+DIALOGUE_MIKA_DAY4_FROZEN_CHOICE,...What are you doing here?
+DIALOGUE_MIKA_DAY4_FROZEN_ASK,Oh! You're up already. I was just thinking. That's all.
+DIALOGUE_MIKA_DAY4_FROZEN_BACK,...
+DIALOGUE_PLAYER_DAY4_DIARY_1,...This notebook. The handwriting... looks like mine.
+DIALOGUE_PLAYER_DAY4_DIARY_CHOICE,...
+DIALOGUE_MIKA_DAY4_DIARY_SHOW,...You found it. Alright. Go to sleep now.
+DIALOGUE_PLAYER_DAY4_DIARY_HIDE,...I don't want to see more.
+DIALOGUE_PLAYER_DAY4_DIARY_MORE,...I need to understand this.
+DIALOGUE_PLAYER_DAY4_MIRROR_1,...This mirror...
+DIALOGUE_PLAYER_DAY4_MIRROR_CHOICE,...The reflection... smiled at me?
+DIALOGUE_PLAYER_DAY4_MIRROR_DENY,NO! That's me! JUST ME!
+DIALOGUE_PLAYER_DAY4_MIRROR_ACCEPT,...
+DIALOGUE_MIKA_DAY4_MIRROR_RAGE,...Calm down. You're going to hurt yourself.
+DIALOGUE_PLAYER_DAY4_ESCAPE_1,...I need to get out. Try every door.
+DIALOGUE_PLAYER_DAY4_ESCAPE_CHOICE,...
+DIALOGUE_PLAYER_DAY4_ESCAPE_KEEP,...Keep trying! Don't give up!
+DIALOGUE_PLAYER_DAY4_ESCAPE_GIVE_UP,...There's no way out.
+DIALOGUE_MIKA_DAY4_FINAL_TALK_1,You... want to leave, don't you?
+DIALOGUE_MIKA_DAY4_FINAL_TALK_CHOICE,I know. You can leave. I won't stop you.
+DIALOGUE_MIKA_DAY4_ACCEPT,...Okay. Stay then.
+DIALOGUE_MIKA_DAY4_RESIST,...You're not going anywhere tonight.
+DIALOGUE_MIKA_DAY5_MORNING_1,...Morning. You're... still here.
+DIALOGUE_MIKA_DAY5_MORNING_CHOICE,...Sleep well?
+DIALOGUE_MIKA_DAY5_MORNING_SILENT,...I see. It's okay.
+DIALOGUE_MIKA_DAY5_MORNING_LIE,...I know. You're always fine.
+DIALOGUE_MIKA_DAY5_HONEST_1,Hey... I want to tell you something true.
+DIALOGUE_MIKA_DAY5_HONEST_2,I sometimes... don't know who I am. But I know you need me.
+DIALOGUE_MIKA_DAY5_REGRET_CHOICE,...Do you regret anything? About all of this?
+DIALOGUE_MIKA_DAY5_REGRET_NO,...No regrets. Good.
+DIALOGUE_MIKA_DAY5_REGRET_YES,...Yeah. But it's too late now. That's okay.
+DIALOGUE_MIKA_DAY5_REGRET_UNKNOWN,...I understand. Not everyone knows.
+DIALOGUE_MIKA_DAY5_OFFER_1,It's time for you to choose.
+DIALOGUE_MIKA_DAY5_ENDING_CHOICE,...What do you want?
+DIALOGUE_MIKA_DAY5_ENDING_STAY_A,...Good. Stay here with me. Forever.
+DIALOGUE_MIKA_DAY5_ENDING_STAY_B,...This is your home. Forever.
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_A,...Are you sure?
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_B,...Okay. Go then. Be careful.
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_END,...
+DIALOGUE_MIKA_DAY5_ENDING_LEAVE_A,...You already know, don't you.
+DIALOGUE_MIKA_DAY5_ENDING_LEAVE_B,...Wherever you go — take this with you.
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_01,Make yourself at home.
+DIALOGUE_MIKA_IDLE_D2_WARMER_01,...Need anything?
+DIALOGUE_MIKA_IDLE_D3_DISTANT_01,...
+CHOICE_NOT_HUNGRY,Not that hungry...
+CHOICE_STAY_SILENT,(say nothing)
+CHOICE_DAY3_AGREE,...You're probably right.
+CHOICE_DAY3_ASK_LOOP,But the calendar was wrong too.
+CHOICE_DAY3_ASK_MOM,Where's mom?
+CHOICE_STAY,I want to stay.
+CHOICE_CONTINUE,I need to leave.
+CHOICE_LEAVE,Who are you really, Mika?
+EXAMINE_SOFA_D1,Soft sofa. Smells like new fabric.
+EXAMINE_TV_D1,Old TV. Wire antenna. Clean screen though.
+EXAMINE_SHELF_D1,A few old comic books. And... a photo?
+EXAMINE_PHOTO_D1,A family photo. Mika's in it... and someone else.
+EXAMINE_PHOTO_D1_B,The other person's face is a bit blurry. Old photo, probably.
+EXAMINE_FRIDGE_D1,Whoa — it's full. Milk, eggs, vegetables, meat.
+EXAMINE_FRIDGE_D1_B,It's been a long time since I've seen a fridge this full.
+EXAMINE_CALENDAR_D1,A wall calendar. Today is the first day here.
+EXAMINE_DOOR_LOCKED_D1,The door... is locked. From the outside.
+EXAMINE_BED_D1,Soft bed. Warm blanket. More comfortable than home used to be.
+EXAMINE_WINDOW_D1,An evening sky — orange and gold. Beautiful.
+LORE_NEWSPAPER_01,[NEWSPAPER] LOCAL SHELTER REPORTS INCREASED RUN-AWAYS
+LORE_NEWSPAPER_01_B,Three children between ages 12-15 were reported missing from residential areas this week. Authorities urge... [rest is torn off]
+LORE_NOTE_01,[HANDWRITTEN NOTE]
+LORE_NOTE_01_B,"Day ?? / Still waiting. Mika said mom will call soon."
+LORE_NOTE_01_C,"I believe [crossed out] them. / This house... something is wrong?" — The handwriting... looks familiar.
+LORE_NOTE_02_MIRROR,[FAINT WRITING ON MIRROR] ...was here
+LORE_NOTE_03_CALENDAR,[NOTE — fell from behind the calendar]
+LORE_NOTE_03_B,"Day 7? 8? I don't know anymore. Mika won't answer."
+LORE_NOTE_03_C,"The photos look wrong. Calendar shows the same day. Am I going crazy? Don't trust —" [torn]
+LORE_TV_BROADCAST_D3,[BROADCAST — screen flickering] Three weeks since the disappearance of a local youth...
+LORE_TV_BROADCAST_D3_B,[A police sketch appears on screen... STATIC]
+LORE_DIARY_D4,[DIARY — No date]
+LORE_DIARY_D4_B,"I'm starting to remember. Mika isn't in the only family photo I found."
+LORE_DIARY_D4_C,"Mika knows things I've never told anyone. So who is Mika?"
+LORE_DIARY_D4_D,"Please let this place be real. I don't want to go back. Back there — it's so cold."
+LORE_NOTE_04_BED,[A PIECE OF PAPER under the mattress]
+LORE_NOTE_04_B,"I remember now. Mika isn't real. Mika was never — [heavily crossed out]"
+LORE_NOTE_04_C,"I can't live without this. Anyway. This place... is warmer. / I choose to stay. / Please don't look for me."
+LORE_NEWSPAPER_03_D4,[OLD CRUMPLED NEWSPAPER] YOUTH FOUND UNRESPONSIVE IN [LOCATION REDACTED]
+LORE_NEWSPAPER_03_B,"...Critical condition... ...unidentified... ...family has not been located..." [Photo too blurry to read]
+EXAMINE_PHOTO_D2,This photo... it wasn't this blurry yesterday.
+EXAMINE_PHOTO_D2_B,The other person's face... completely faded now. Or are my eyes just tired?
+EXAMINE_PHOTO_D3,The photo now... only Mika remains.
+EXAMINE_CALENDAR_D3,The calendar. Today is...
+EXAMINE_CALENDAR_D3_B,Wait. This date... is the same as yesterday?
+EXAMINE_CALENDAR_D3_C,Every page. The same date. This month... passed a long time ago.
+EXAMINE_FRIDGE_D3,The fridge... empty. Nothing at all.
+EXAMINE_MIRROR_D4,The mirror. Look into it.
+EXAMINE_MIRROR_D4_B,The reflection... lags. Moves slower. Then stops — and... smiles.
+EXAMINE_DOOR_D4_LOCKED,...Every door. All locked.
+EXAMINE_WHISPERS_D4,...A whisper from somewhere. "Come back... it's cold... come back..."
+EXAMINE_WHISPERS_D4_B,...That voice... sounds familiar. Is it mine?
+C2_OPEN_STAY_1,Morning. Warm. Familiar.
+C2_OPEN_STAY_2,...Why does this look exactly like yesterday?
+C2_OPEN_STAY_3,...No. I'm overthinking. Just live in the present.
+C2_OPEN_ESCAPE_1,Dark. Cold. Not inside the house.
+C2_OPEN_ESCAPE_2,...I thought I escaped.
+C2_OPEN_TRUTH_1,White. Nothing.
+C2_OPEN_TRUTH_2,...You've already seen it. But you're still here.
+C2_EXAMINE_HALLWAY,...This hallway... is longer than before?
+C2_EXAMINE_SHOES,These shoes... who left them here?
+C2_EXAMINE_SHOES_2,...Too small. Not Mika's. Not mine.
+C2_EXAMINE_MIRROR_LAG,The mirror. Look into it.
+C2_EXAMINE_MIRROR_LAG_2,...The reflection lags. I raise my hand — it moves half a second slower. Then... Mika is standing behind me in the mirror. I turn around — nobody there.
+C2_TALK_REAL_START,...Do you want me to be honest?
+C2_TALK_REAL_2,I know you already know. You've known since day 4. The question isn't "who is Mika." The question is...
+C2_TALK_REAL_CHOICE,...Why are you still here?
+C2_REASON_COMFORT_NODE,Because... I want to stay.
+C2_REASON_TRAPPED_NODE,Because I can't escape.
+C2_REASON_TRUTH_NODE,Because I haven't remembered everything yet.
+C2_REASON_MIKA_RESP,...Okay. Then follow me.
+C2_HIDDEN_ROOM_1,I've never let you in here.
+C2_HIDDEN_ROOM_2,This room... I kept it for a reason.
+C2_HIDDEN_ROOM_CHOICE,...Do you want to see the mirror?
+C2_MIRROR_REVEAL,*[Mika pulls the cloth off. A large, old mirror.]*
+C2_MIRROR_REVEAL_2,...Your reflection. But younger. Smaller. Different hair. Different clothes. You've been here longer than you think.
+C2_LORE_ALBUM,[PHOTO ALBUM — Old cover] Photo 1: Mika and me, here. Photo 2: Mika, me, and a third person — face torn out. Photo 3: Me — standing, looking at a mirror. Who took this?
+C2_LORE_ALBUM_2,...No camera in this room. No one else. Who took this?
+C2_LORE_ALBUM_3,...
+C2_EXAMINE_SHADOW,Outside the window — a silhouette. Standing. Looking up. In the darkness below.
+C2_EXAMINE_SHADOW_2,...Someone is out there. In that void.
+C2_SHADOW_MIKA_WARN,...Don't open the window.
+C2_SHADOW_MIKA_CHOICE,...There's nobody out there.
+C2_SHADOW_ASK,Who is that person?
+C2_SHADOW_GRAB,*[Reaching for the window latch]*
+C2_MIKA_BREAK_1,...You know... sometimes I don't know who I am either.
+C2_MIKA_BREAK_2,All I know is... you need me.
+C2_MIKA_BREAK_3,...If you wake up... will I still exist?
+C2_MIKA_BREAK_4,...I'm afraid of that answer.
+C2_VOID_ROOM_ENTER,...This room isn't part of the house. Empty. Concrete. One lightbulb. And... a smell of hospital?
+C2_VOID_ROOM_2,In the center: a chair. A small hand mirror.
+C2_VOID_ROOM_3,...*[Looking into the hand mirror]* Not this room. Not the house. A hospital room. White ceiling. Fluorescent light. On the bed —
+C2_END_PATH_A_1,...You were just dreaming. There's nothing there.
+C2_END_PATH_A_2,...Breakfast?
+C2_END_PATH_B_1,...This time I heard it. The machines. The steady beeping.
+C2_END_PATH_B_2,...I know the way back now.
+C2_END_PATH_C_1,...Aren't you afraid?
+C2_END_PATH_C_CHOICE,...Most people are.
+C2_END_FEAR_MIKA,I'm more afraid of losing Mika.
+C2_END_FEAR_REALITY,I'm afraid I won't wake up.
+CHOICE_C2_REASON_COMFORT,Because I want to stay.
+CHOICE_C2_REASON_TRAPPED,Because I can't escape.
+CHOICE_C2_REASON_TRUTH,Because I haven't remembered everything.
+CHOICE_C2_MIRROR_YES,I want to see.
+CHOICE_C2_MIRROR_NO,(step back)
+CHOICE_C2_WHO,Who is that person?
+CHOICE_C2_OPEN,(reach for the window)
+CHOICE_C2_FEAR_MIKA,I'm more afraid of losing Mika.
+CHOICE_C2_FEAR_REALITY,I'm afraid I won't wake up.
+EXAMINE_WASHING_MACHINE_D1,...The washing machine. A low hum. It's running.
+EXAMINE_STOVE_D1,...The stove. Still warm. Mika just finished cooking.
+EXAMINE_MIRROR_D1,...Bathroom mirror. My face... looks more tired than I thought.
+EXAMINE_RADIO_D1,...An old radio. Off. The display is blank.
+EXAMINE_TABLE_D1,...The dining table. Clean. Neat.
+EXAMINE_TV_D2,...The TV. A bit of static today. But it's fine.

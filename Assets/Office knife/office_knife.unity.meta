@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 711bad4045ad7c745b561fd426000cc9
+timeCreated: 1493981099
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89088
+  packageName: Office knife
+  packageVersion: 1.0
+  assetPath: Assets/Office knife/office_knife.unity
+  uploadId: 183068

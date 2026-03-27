@@ -1,0 +1,390 @@
+﻿TextKey,Text
+DIALOGUE_MIKA_DAY1_MORNING_1,Dậy rồi à? Lâu quá.
+DIALOGUE_MIKA_DAY1_MORNING_2,Mẹ gọi điện. Nói tối nay về muộn. Như mọi khi.
+DIALOGUE_MIKA_DAY1_MORNING_3,Chị sẽ ở đây nếu em cần gì.
+DIALOGUE_MIKA_DAY1_CHORE_1,Em giúp chị dọn dẹp một chút được không?
+DIALOGUE_MIKA_DAY1_CHORE_2,Cảm ơn em.
+DIALOGUE_MIKA_DAY1_DINNER_1,Ăn tối rồi. Chị nấu cơm.
+DIALOGUE_MIKA_DAY1_DINNER_2,Ngon lắm. Em thích món này nhỉ?
+DIALOGUE_MIKA_DAY1_DINNER_3,Ăn no chưa?
+DIALOGUE_MIKA_DAY1_TV_1,Xem TV chút nhé?
+DIALOGUE_MIKA_DAY1_TV_2,Phim này hơi nhàm. Nhưng kệ.
+DIALOGUE_MIKA_DAY1_BEDTIME_1,Buồn ngủ rồi. Ngủ thôi.
+DIALOGUE_MIKA_DAY1_BEDTIME_2,Ngủ ngon nhé em.
+DIALOGUE_MIKA_DAY2_MORNING_1,Sáng... Mẹ gọi lại. Mẹ làm thêm giờ.
+DIALOGUE_MIKA_DAY2_MORNING_2,Em giúp chị việc nhà được không? Chị có việc phải làm.
+DIALOGUE_MIKA_DAY2_MORNING_3,Cảm ơn em.
+DIALOGUE_MIKA_DAY2_COOK_HELP,Giặt giũ xong? Tốt lắm.
+DIALOGUE_MIKA_DAY2_DINNER_1,Ăn tối thôi.
+DIALOGUE_MIKA_DAY2_DINNER_2,Chị hơi mệt. Em ăn đi rồi lên ngủ nhé.
+DIALOGUE_MIKA_DAY2_TV_GLITCH,...TV hỏng à? Màn hình nhấp nháy kỳ lạ.
+DIALOGUE_MIKA_DAY3_MORNING_1,...
+DIALOGUE_MIKA_DAY3_MORNING_2,(Chị ấy không nhìn em. Mắt mông lung.)
+DIALOGUE_MIKA_DAY3_CONFRONT_1,Đừng hỏi về mẹ nữa.
+DIALOGUE_MIKA_DAY3_CONFRONT_A1,Có gì đó sai. Sai từ lâu rồi.
+DIALOGUE_MIKA_DAY3_CONFRONT_A2,Những bức ảnh, đồ ăn, ngày tháng... Tất cả đều... hỏng hết.
+DIALOGUE_MIKA_DAY3_CONFRONT_B1,Lịch cứ lặp đi lặp lại. Sao vậy? Sao cùng một ngày hoài?
+DIALOGUE_MIKA_DAY3_CONFRONT_C1,Mẹ... Chị không biết mẹ đâu.
+DIALOGUE_MIKA_DAY3_CONFRONT_C2,Chị không nghĩ mẹ sẽ quay về.
+DIALOGUE_MIKA_DAY3_CONFRONT_END,Chúng ta cần nói chuyện. Nhưng không phải bây giờ.
+DIALOGUE_MIKA_DAY3_DINNER_1,...Em đã nhận ra rồi phải không?
+DIALOGUE_MIKA_DAY3_DINNER_A,Thì... đúng rồi. Chị cũng sợ.
+DIALOGUE_MIKA_DAY3_DINNER_B,Chị biết. Nhưng chị không biết làm sao để ra khỏi đây.
+DIALOGUE_MIKA_DAY3_DINNER_END,Ăn tối đi. Rồi từ từ sẽ nghĩ ra cách.
+DIALOGUE_MIKA_DAY5_MORNING_1,Em tỉnh rồi.
+DIALOGUE_MIKA_DAY5_MORNING_2,Đã 4 năm kể từ khi mẹ mất.
+DIALOGUE_MIKA_DAY5_MORNING_3,4 năm em mắc kẹt ở đây. Trong vòng lặp này.
+DIALOGUE_MIKA_DAY5_OFFER_1,Chị biết em sợ. Chị cũng sợ.
+DIALOGUE_MIKA_DAY5_OFFER_2,Nhưng ở đây mãi... không phải là sống.
+DIALOGUE_MIKA_DAY5_OFFER_3,Em phải chọn. Ở lại đây, hay bước tiếp.
+DIALOGUE_MIKA_DAY5_CHOICE_STAY,...Được. Chúng ta sẽ ở lại. Mãi mãi.
+DIALOGUE_MIKA_DAY5_CHOICE_UNSURE,Em chưa sẵn sàng. Chị hiểu. Quay lại thôi.
+DIALOGUE_MIKA_DAY5_CHOICE_LEAVE,Chị biết rồi. Đi thôi. Cùng nhau.
+DIALOGUE_PLAYER_WAKEUP_DAY1,Một ngày mới... Tao phải làm gì nhỉ?
+DIALOGUE_PLAYER_WAKEUP_DAY2,Hôm nay... có gì khác không?
+DIALOGUE_PLAYER_WAKEUP_DAY3,Lại một ngày nữa. Tại sao tao có cảm giác kỳ lạ?
+DIALOGUE_PLAYER_WAKEUP_DAY4,...Chuyện gì đang xảy ra?
+DIALOGUE_PLAYER_BED_DAY1,Ngủ thôi. Mệt rồi.
+DIALOGUE_PLAYER_BED_DAY2,Giấc ngủ... có vẻ không yên.
+DIALOGUE_PLAYER_BED_DAY3,Tao sợ ngủ. Sợ ngày mai.
+DIALOGUE_PLAYER_SOFA_EXAMINE,Ghế sofa cũ nhưng êm ái. Nhiều kỷ niệm.
+DIALOGUE_PLAYER_TV_EXAMINE,TV cũ. Vẫn hoạt động, ngạc nhiên thật.
+DIALOGUE_PLAYER_SHELF_EXAMINE,Sách, ảnh, đồ lặt vặt. Hơi bụi.
+DIALOGUE_PLAYER_CANT_SLEEP,Chưa buồn ngủ. Còn việc phải làm.
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_01,Làm gì vậy?
+DIALOGUE_MIKA_IDLE_RESPONSE_CHOICE_01,...
+CHOICE_TALK,Nói chuyện một chút
+CHOICE_BUSY,Tôi đang bận
+CHOICE_SILENT,(im lặng)
+DIALOGUE_MIKA_IDLE_TALK_01,Ừ, có gì nói thôi.
+DIALOGUE_MIKA_IDLE_BUSY_01,Được rồi. Không sao.
+DIALOGUE_MIKA_IDLE_SILENT_01,...
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_02,Chị nghĩ hôm nay đẹp trời.
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_03,Em cần gì không?
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_01,Em thế nào?
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_02,Em ăn chưa?
+DIALOGUE_MIKA_IDLE_D3_TENSION_01,...
+DIALOGUE_MIKA_IDLE_D3_TENSION_02,Chị đang nghĩ về mẹ...
+DIALOGUE_MIKA_IDLE_D4_TENSION_01,Chị không biết nữa...
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_01,Đã đến lúc rồi...
+DIALOGUE_MIKA_IDLE_GENERIC_01,Hmm...
+DIALOGUE_MIKA_IDLE_GENERIC_02,Có chuyện gì không em?
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_01,Nhà vẫn như thế này...
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_02,Có gì đó sai sai...
+DIALOGUE_PLAYER_THOUGHT_SELF_01,Tao đang làm gì đây?
+DIALOGUE_PLAYER_THOUGHT_DOUBT_01,Có phải... tao đang tỉnh không?
+DIALOGUE_PLAYER_EXAMINE_SOFA_L1,Ghế sofa cũ.
+DIALOGUE_PLAYER_EXAMINE_TV_L1,Ti vi cũ kỹ.
+DIALOGUE_PLAYER_EXAMINE_SHELF_L1,Kệ sách.
+DIALOGUE_PLAYER_EXAMINE_FRIDGE_L1,Tủ lạnh.
+DIALOGUE_PLAYER_EXAMINE_CALENDAR_L1,Lịch treo tường.
+DIALOGUE_PLAYER_EXAMINE_MIRROR_L1,Gương soi.
+DIALOGUE_PLAYER_EXAMINE_DOOR_L1,Cửa ra vào.
+DIALOGUE_PLAYER_EXAMINE_WINDOW_L1,Cửa sổ.
+QUEST_DAY1_MAIN_NAME,Ngày Đầu Tiên
+QUEST_DAY1_MAIN_DESC,Làm quen với nhà và Mika. Hoàn thành việc nhà, ăn tối, rồi ngủ.
+QUEST_DAY2_MAIN_NAME,Ngày Thứ Hai
+QUEST_DAY2_MAIN_DESC,Giúp Mika việc nhà. Giặt giũ, nấu ăn.
+QUEST_DAY3_MAIN_NAME,Sự Thật Lộ Diện
+QUEST_DAY3_MAIN_DESC,Những bất thường bắt đầu rõ ràng. Đối mặt với sự thật.
+QUEST_DAY4_MAIN_NAME,Vỡ Vụn
+QUEST_DAY4_MAIN_DESC,Thực tại sụp đổ. Tìm manh mối cuối cùng.
+QUEST_DAY5_MAIN_NAME,Quyết Định
+QUEST_DAY5_MAIN_DESC,Đối mặt với sự thật. Chọn tương lai.
+QUEST_LORE_HUNTER_NAME,Thợ Săn Bí Ẩn
+QUEST_LORE_HUNTER_DESC,Khám phá tất cả manh mối ẩn giấu trong nhà.
+QUEST_SIDE_MEMORY_KEEPER_NAME,Người Giữ Ký Ức
+QUEST_SIDE_MEMORY_KEEPER_DESC,Kiểm tra tất cả bức ảnh trong nhà.
+QUEST_SIDE_SHADOW_WATCHER_NAME,Kẻ Theo Dõi Bóng Tối
+QUEST_SIDE_SHADOW_WATCHER_DESC,Chú ý đến hành động kỳ lạ của Mika.
+QUEST_SIDE_SILENT_OBSERVER_NAME,Người Quan Sát Im Lặng
+QUEST_SIDE_SILENT_OBSERVER_DESC,Tìm ra những bất thường trong môi trường.
+QUEST_SIDE_ECHO_HUNTER_NAME,Thợ Săn Tiếng Vọng
+QUEST_SIDE_ECHO_HUNTER_DESC,Nghe tất cả âm thanh bí ẩn.
+QUEST_SIDE_TRUTH_SEEKER_NAME,Người Tìm Kiếm Sự Thật
+QUEST_SIDE_TRUTH_SEEKER_DESC,Ghép tất cả manh mối lại. Khám phá toàn bộ sự thật.
+OBJ_DAY1_WAKE,Thức dậy
+OBJ_DAY1_TALK_MIKA,Nói chuyện với Mika
+OBJ_DAY1_EXPLORE,Khám phá nhà
+OBJ_DAY1_CLEAN,Dọn dẹp nhà
+OBJ_DAY1_DINNER,Ăn tối
+OBJ_DAY1_TV,Xem TV
+OBJ_DAY1_SLEEP,Đi ngủ
+OBJ_DAY2_WAKE,Thức dậy
+OBJ_DAY2_TALK_MIKA,Nói chuyện với Mika
+OBJ_DAY2_LAUNDRY,Giặt giũ
+OBJ_DAY2_COOK,Nấu ăn
+OBJ_DAY2_DINNER,Ăn tối
+OBJ_DAY2_TV,Xem TV
+OBJ_DAY2_SLEEP,Đi ngủ
+OBJ_DAY3_WAKE,Thức dậy
+OBJ_DAY3_TALK_MIKA,Nói chuyện với Mika
+OBJ_DAY3_CALENDAR,Kiểm tra lịch
+OBJ_DAY3_NEWS,Xem tin tức
+OBJ_DAY3_CONFRONT,Đối chất với Mika
+OBJ_DAY3_DINNER,Ăn tối
+OBJ_DAY3_SLEEP,Đi ngủ
+OBJ_DAY4_WAKE,Thức dậy
+OBJ_DAY4_FIND_MIKA,Tìm Mika
+OBJ_DAY4_DIARY,Đọc nhật ký
+OBJ_DAY4_MIRROR,Nhìn gương
+OBJ_DAY4_WHISPERS,Nghe thì thầm
+OBJ_DAY4_ESCAPE,Thử thoát ra
+OBJ_DAY4_ACCEPTANCE,Chấp nhận
+OBJ_DAY5_WAKE,Thức dậy
+OBJ_DAY5_TALK_MIKA,Nói chuyện với Mika
+OBJ_DAY5_CHOICE,Đưa ra quyết định
+ITEM_MILK_NAME,Sữa tươi
+ITEM_MILK_DESC,Một hộp sữa tươi. Bổ sức.
+ITEM_COOKIE_NAME,Bánh quy
+ITEM_COOKIE_DESC,Bánh quy ngọt. Ngon.
+ITEM_APPLE_NAME,Táo
+ITEM_APPLE_DESC,Một quả táo tươi.
+ITEM_RICE_BALL_NAME,Cơm nắm
+ITEM_RICE_BALL_DESC,Cơm nắm đơn giản.
+ITEM_COFFEE_NAME,Cà phê
+ITEM_COFFEE_DESC,Cà phê đen. Tỉnh táo.
+ITEM_ENERGY_DRINK_NAME,Nước tăng lực
+ITEM_ENERGY_DRINK_DESC,Nước tăng lực. Giúp tỉnh táo nhưng không tốt cho sức khỏe.
+ITEM_PILLS_NAME,Thuốc ngủ
+ITEM_PILLS_DESC,Thuốc giúp ngủ. Nguy hiểm nếu dùng nhiều.
+CHOICE_STAY,Ở lại
+CHOICE_LEAVE,Rời đi
+CHOICE_CONTINUE,Tiếp tục
+CHOICE_DAY3_AGREE,Có gì đó rất sai
+CHOICE_DAY3_ASK_MOM,Mẹ đâu rồi?
+CHOICE_DAY3_ASK_LOOP,Tại sao cùng một ngày?
+CHOICE_DAY5_ACCEPT,Chấp nhận sự thật
+CHOICE_DAY5_DENY,Từ chối
+DIALOGUE_MIKA_DAY5_FINAL_OFFER_1,Sự thật là... chúng ta đã mất mẹ từ lâu.
+DIALOGUE_MIKA_DAY5_FINAL_OFFER_2,Và em... em đang sống trong ảo tưởng. Để chạy trốn.
+DIALOGUE_MIKA_DAY5_FINAL_OFFER_3,Chị cũng vậy. Chúng ta cùng tạo ra nơi này. Cùng mắc kẹt ở đây.
+DIALOGUE_MIKA_DAY5_ENDING_STAY_A,Ở lại... được. Chúng ta sẽ mãi mãi an toàn ở đây.
+DIALOGUE_MIKA_DAY5_ENDING_STAY_B,Ngày hôm sau. Và ngày tiếp theo. Mãi mãi.
+DIALOGUE_MIKA_DAY5_ENDING_STAY_END,Ấm áp. Thoải mái. Giả dối.
+DIALOGUE_MIKA_DAY5_ENDING_LEAVE_A,Được rồi. Đi thôi. Chị dẫn em.
+DIALOGUE_MIKA_DAY5_ENDING_LEAVE_B,Đau đớn. Nhưng thật.
+DIALOGUE_MIKA_DAY5_ENDING_LEAVE_END,Anh sáng bên ngoài chói lóa. Nhưng em bước ra.
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_A,Chưa sẵn sàng... Chị hiểu.
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_B,Quay lại. Một lần nữa.
+DIALOGUE_MIKA_DAY5_ENDING_CONTINUE_END,Vòng lặp tiếp tục. Nhưng bây giờ... em biết.
+DIALOGUE_PLAYER_PHOTO1_DAY1,Bức ảnh gia đình. Mọi người đều cười.
+DIALOGUE_PLAYER_PHOTO1_DAY2,Khuôn mặt... có vẻ mờ? Hay tao nhìn lầm?
+DIALOGUE_PLAYER_PHOTO1_DAY3,Mờ hơn nữa. Tao gần như không nhìn ra ai.
+DIALOGUE_PLAYER_PHOTO1_DAY5_BLANK,...Trống rỗng. Ảnh trống trơn.
+DIALOGUE_PLAYER_FRIDGE_DAY1,Tủ lạnh khá đầy. Đủ đồ ăn.
+DIALOGUE_PLAYER_FRIDGE_DAY3_EMPTY,...Rỗng. Sao lại thế được?
+DIALOGUE_PLAYER_CALENDAR_DAY1,Lịch treo tường. Chữ viết của mẹ.
+DIALOGUE_PLAYER_CALENDAR_DAY3_1,Cùng một ngày. Được khoanh tròn ba lần.
+DIALOGUE_PLAYER_CALENDAR_DAY3_2,Ngày mai... cũng là ngày hôm nay?
+DIALOGUE_PLAYER_CALENDAR_DAY3_3,Có phải tao đang mắc kẹt trong vòng lặp?
+DIALOGUE_PLAYER_MIKA_FROZEN,Chị ấy đứng im như tượng. Không nhúc nhích.
+DIALOGUE_PLAYER_DIARY_READ,[Nhật ký của mẹ] 'Mẹ không còn nhiều thời gian nữa...'
+DIALOGUE_PLAYER_MIRROR_DAY1,Gương. Tao trông bình thường.
+DIALOGUE_PLAYER_MIRROR_DAY2,Tao trông... hơi khác? Hay chỉ là cảm giác?
+DIALOGUE_PLAYER_MIRROR_DAY3,Khuôn mặt tao... xa lạ.
+DIALOGUE_PLAYER_MIRROR_DAY4_HORROR,Đó không phải là tao. ĐÓ KHÔNG PHẢI LÀ TAO!
+DIALOGUE_PLAYER_DOOR_VOID,Cửa... dẫn đến hư không. Không có gì cả.
+DIALOGUE_PLAYER_TO_MIKA_DAY4,...Chị. Chúng ta cần nói chuyện.
+DIALOGUE_PLAYER_WINDOW_DAY5,Bên ngoài... đó là thế giới thật.
+DIALOGUE_TV_NEWS_DAY3_1,[TIN TỨC] Khẩn cấp: Trẻ em mất tích 3 ngày.
+DIALOGUE_TV_NEWS_DAY3_2,[TIN TỨC] Cha mẹ qua đời. Trẻ sống một mình.
+DIALOGUE_TV_NEWS_DAY3_3,[TIN TỨC] Tìm kiếm đang diễn ra... Ảnh...
+DIALOGUE_TV_CARTOON_DAY1,[Phim hoạt hình] Tiếng cười trẻ con. Bình thường.
+DIALOGUE_TV_CARTOON_DAY2_GLITCH,[Phim hoạt hình] Màn hình nhấp nháy. Tiếng ồn.
+LORE_NEWSPAPER_01,'Tai nạn giao thông. Gia đình 3 người tử vong ngay tại chỗ.'
+LORE_NOTE_01,'Nhớ mua sữa ngày mai. - Mẹ'
+LORE_NOTE_03,'Mẹ đã không về nhà 2 tuần rồi. Chúng ta phải làm gì?'
+LORE_FINAL_NOTE,'4 năm. Em vẫn không chấp nhận. Chị cũng vậy.'
+DIALOGUE_MIRROR_MIKA_1,'Em không phải là em. Em là ai?'
+DIALOGUE_MIRROR_MIKA_2,'Em là... cái gì? Ký ức? Ảo tưởng?'
+DIALOGUE_MIRROR_MIKA_3,'Hoặc em là phản chiếu của nỗi đau.'
+DIALOGUE_RADIO_WHISPER_DAY4,[Thì thầm từ radio] 'Buông bỏ... buông bỏ...'
+DIALOGUE_PLAYER_DAY1_WAKE,Một ngày mới... Tao phải làm gì nhỉ?
+DIALOGUE_MIKA_DAY1_MEET_1,Dậy rồi à? Sáng rồi đấy.
+DIALOGUE_MIKA_DAY1_MEET_CHOICE,Em... thế nào?
+DIALOGUE_MIKA_DAY1_MEET_RESPONSE_A,Ừ. Ổn. Chị ở đây.
+DIALOGUE_MIKA_DAY1_MEET_RESPONSE_B,Chị vui khi thấy em tỉnh táo.
+DIALOGUE_MIKA_DAY1_MEET_RESPONSE_C,...Được rồi. Chị hiểu.
+DIALOGUE_MIKA_DAY1_CHORE_ASK,Em giúp chị dọn nhà được không?
+DIALOGUE_MIKA_DAY1_CHORE_CHOICE,...
+DIALOGUE_MIKA_DAY1_CHORE_ACCEPT,Cảm ơn em. Chị đánh giá cao.
+DIALOGUE_MIKA_DAY1_CHORE_QUESTION,Tại sao? Mẹ thường làm mà.
+DIALOGUE_MIKA_DAY1_CHORE_QUESTION_2,Mẹ... mẹ bận. Nên chúng ta phải tự làm.
+DIALOGUE_MIKA_DAY1_CHORE_HESITANT,Hmm... được rồi.
+DIALOGUE_MIKA_DAY1_DINNER_FAMILY_CHOICE,Em có nhớ không... khi gia đình còn sum họp?
+DIALOGUE_MIKA_DAY1_FAMILY_DEFLECT,Chị... chị không muốn nói về chuyện đó.
+DIALOGUE_MIKA_DAY1_FAMILY_SHUTDOWN,...
+DIALOGUE_MIKA_DAY1_FAMILY_LIE,Chúng ta vẫn sum họp mà. Mẹ chỉ đi làm.
+DIALOGUE_MIKA_DAY1_FAMILY_LIE_2,Ừ... đúng rồi. Mẹ sẽ về sớm thôi.
+DIALOGUE_MIKA_DAY1_DINNER_END,Ăn hết đi. Chị dọn bát.
+DIALOGUE_MIKA_DAY1_BEDTIME_CHOICE,Ngủ ngon nhé?
+DIALOGUE_MIKA_DAY1_BEDTIME_WARM,Ừ. Ngủ ngon. Mơ đẹp.
+DIALOGUE_MIKA_DAY1_BEDTIME_SILENT,...Ngủ ngon.
+DIALOGUE_MIKA_DAY2_MORNING_SLEEP_CHOICE,Em ngủ ngon không?
+DIALOGUE_MIKA_DAY2_SLEEP_HONEST,Không... tao mơ thấy điều gì đó.
+DIALOGUE_MIKA_DAY2_SLEEP_HONEST_2,Chị cũng vậy. Giấc ngủ không yên.
+DIALOGUE_MIKA_DAY2_SLEEP_NEUTRAL,Bình thường.
+DIALOGUE_MIKA_DAY2_SLEEP_AVOID,Ngủ được.
+DIALOGUE_PLAYER_DAY2_PHOTO_BLUR_NOTICE,Bức ảnh... mờ hơn hôm qua.
+DIALOGUE_PLAYER_DAY2_PHOTO_CHOICE,Tao nên làm gì?
+DIALOGUE_MIKA_DAY2_PHOTO_ASK_MIKA,Ảnh? Ảnh vẫn như cũ mà.
+DIALOGUE_PLAYER_DAY2_PHOTO_OBSERVE,...Không. Có gì đó sai.
+DIALOGUE_PLAYER_DAY2_PHOTO_DISMISS,Có lẽ chỉ là ánh sáng.
+DIALOGUE_MIKA_DAY2_COOK_ASK,Cùng nấu ăn nhé?
+DIALOGUE_MIKA_DAY2_COOK_CHOICE,...
+DIALOGUE_MIKA_DAY2_COOK_TOGETHER,Tốt. Chị thích nấu cùng em.
+DIALOGUE_MIKA_DAY2_COOK_ALONE,Được. Chị tự làm.
+DIALOGUE_MIKA_DAY2_TV_GLITCH_CHOICE,TV hỏng à?
+DIALOGUE_MIKA_DAY2_TV_ACCEPT,Có lẽ vậy. Dây cáp cũ rồi.
+DIALOGUE_MIKA_DAY2_TV_CONCERN,...Không chỉ là TV. Có gì đó không đúng.
+DIALOGUE_MIKA_DAY3_MORNING_MOOD_CHOICE,Chị ổn không?
+DIALOGUE_MIKA_DAY3_MORNING_NORMAL,Ừ. Chị ổn. Mệt thôi.
+DIALOGUE_MIKA_DAY3_MORNING_CONCERNED,Chị... chị không biết nữa.
+DIALOGUE_PLAYER_DAY3_CALENDAR_DISCOVER,Lịch. Cùng một ngày. Ba lần.
+DIALOGUE_PLAYER_DAY3_CALENDAR_DISCOVER_2,Chúng ta... lặp lại.
+DIALOGUE_MIKA_DAY3_DINNER_TENSION_CHOICE,...
+DIALOGUE_MIKA_DAY3_DINNER_NORMAL,Ăn đi rồi ngủ. Mai sẽ... khác.
+DIALOGUE_MIKA_DAY3_DINNER_SILENT,...
+DIALOGUE_MIKA_DAY4_FROZEN_FIND,(Chị ấy đứng bên cửa sổ. Không nhúc nhích.)
+DIALOGUE_MIKA_DAY4_FROZEN_CHOICE,...
+DIALOGUE_MIKA_DAY4_FROZEN_ASK,Tại sao em lại ở đây? Tại sao không để chị yên?
+DIALOGUE_PLAYER_DAY4_FROZEN_BACK,...Tao nên đi.
+DIALOGUE_PLAYER_DAY4_DIARY_READ,[Nhật ký] Mẹ biết chị ấy sẽ chết. Mẹ viết về chúng ta.
+DIALOGUE_PLAYER_DAY4_DIARY_CHOICE,Tao nên làm gì với nhật ký này?
+DIALOGUE_MIKA_DAY4_DIARY_SHOW,Em tìm thấy rồi à? Cho chị xem.
+DIALOGUE_PLAYER_DAY4_DIARY_HIDE,Không. Tao giữ nó.
+DIALOGUE_PLAYER_DAY4_DIARY_READ_MORE,Tao cần đọc hết. Tao cần hiểu.
+DIALOGUE_MIRROR_DAY4_MIRROR_TRUTH,[Gương] Đó không phải là em đâu.
+DIALOGUE_MIRROR_DAY4_MIRROR_CHOICE,...
+DIALOGUE_PLAYER_DAY4_MIRROR_DENY,KHÔNG! Đó là tao! Đó LÀ TAO!
+DIALOGUE_PLAYER_DAY4_MIRROR_ACCEPT,...Tao biết rồi. Tao không phải tao.
+DIALOGUE_PLAYER_DAY4_MIRROR_RAGE,(Đập gương)
+DIALOGUE_PLAYER_DAY4_ESCAPE_TRY,Cửa. Tao phải thoát ra.
+DIALOGUE_PLAYER_DAY4_ESCAPE_CHOICE,...
+DIALOGUE_PLAYER_DAY4_ESCAPE_KEEP,Tao phải thử tiếp! TẤT CẢ CỬA!
+DIALOGUE_PLAYER_DAY4_ESCAPE_GIVE_UP,...Vô ích. Không có đường ra.
+DIALOGUE_MIKA_DAY4_MIKA_APPEAR,Dừng lại. Em không thể thoát đâu.
+DIALOGUE_MIKA_DAY4_FINAL_TALK_CHOICE,...
+DIALOGUE_PLAYER_DAY4_ACCEPT,Tao... chấp nhận.
+DIALOGUE_PLAYER_DAY4_RESIST,KHÔNG! TAO KHÔNG CHẤP NHẬN!
+DIALOGUE_MIKA_DAY5_MORNING_CHOICE,...
+DIALOGUE_PLAYER_DAY5_MORNING_SILENT,...
+DIALOGUE_MIKA_DAY5_MORNING_LIE,Em vẫn đang cố nói dối chính mình à?
+DIALOGUE_MIKA_DAY5_REGRET_CHOICE,Em có hối hận không?
+DIALOGUE_MIKA_DAY5_REGRET_NO,Không. Đây là lựa chọn đúng.
+DIALOGUE_MIKA_DAY5_REGRET_YES,Có. Nhưng đã quá muộn.
+DIALOGUE_MIKA_DAY5_REGRET_UNKNOWN,Tao... không biết.
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_04,Mọi thứ vẫn ổn chứ?
+DIALOGUE_MIKA_IDLE_D1_FRIENDLY_05,Chị nhớ hôm cùng xem phim.
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_03,Em có cần gì không?
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_04,Hôm nay trời đẹp nhỉ.
+DIALOGUE_MIKA_IDLE_D2_FRIENDLY_05,Chị đang nghĩ về mẹ.
+DIALOGUE_MIKA_IDLE_D3_TENSION_03,Mọi thứ... sai lệch.
+DIALOGUE_MIKA_IDLE_D3_TENSION_04,Em có cảm thấy kỳ lạ không?
+DIALOGUE_MIKA_IDLE_D3_TENSION_05,Tại sao ngày cứ lặp lại?
+DIALOGUE_MIKA_IDLE_D4_TENSION_02,Thực tại đang vỡ vụn.
+DIALOGUE_MIKA_IDLE_D4_TENSION_03,Chúng ta không thật.
+DIALOGUE_MIKA_IDLE_D4_TENSION_04,Em biết sự thật rồi phải không?
+DIALOGUE_MIKA_IDLE_D4_TENSION_05,Làm sao để thoát ra đây?
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_02,Đã đến lúc kết thúc.
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_03,Em sẵn sàng chưa?
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_04,Ở lại hay rời đi?
+DIALOGUE_MIKA_IDLE_D5_DESPERATE_05,Quyết định cuối cùng.
+DIALOGUE_MIKA_IDLE_GENERIC_01,Hmm...
+DIALOGUE_MIKA_IDLE_GENERIC_02,Em ổn không?
+CHOICE_MEET_GUARDED,...Ừ
+DIALOGUE_MIKA_IDLE_GENERIC_03,...
+DIALOGUE_MIKA_IDLE_GENERIC_04,Chị đang nghĩ.
+DIALOGUE_MIKA_IDLE_GENERIC_05,Có việc cần làm.
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_03,Nhà này... khác lạ.
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_04,Không khí nặng nề.
+DIALOGUE_PLAYER_THOUGHT_ENVIRONMENT_05,Như thể... bị mắc kẹt.
+DIALOGUE_PLAYER_THOUGHT_SELF_02,Tao có đang mơ không?
+DIALOGUE_PLAYER_THOUGHT_SELF_03,Đây có phải là thật?
+DIALOGUE_PLAYER_THOUGHT_SELF_04,Tao là ai?
+DIALOGUE_PLAYER_THOUGHT_SELF_05,Ký ức tao... mờ nhạt.
+DIALOGUE_PLAYER_THOUGHT_DOUBT_02,Tại sao ngày cứ lặp lại?
+DIALOGUE_PLAYER_THOUGHT_DOUBT_03,Tin tức... về tao?
+DIALOGUE_PLAYER_THOUGHT_DOUBT_04,Gương nói tao không phải tao.
+DIALOGUE_PLAYER_THOUGHT_DOUBT_05,Không có lối thoát.
+DIALOGUE_PLAYER_EXAMINE_SOFA_L2,Ghế sofa... có vết rách mới.
+DIALOGUE_PLAYER_EXAMINE_SOFA_L3,Ghế này đang phai màu.
+DIALOGUE_PLAYER_EXAMINE_TV_L2,Màn hình nhấp nháy lạ.
+DIALOGUE_PLAYER_EXAMINE_TV_L3,TV chỉ phát tin tức về... tao.
+DIALOGUE_PLAYER_EXAMINE_SHELF_L2,Sách đầy bụi hơn.
+DIALOGUE_PLAYER_EXAMINE_FRIDGE_L2,Đồ ăn ít đi.
+DIALOGUE_PLAYER_EXAMINE_FRIDGE_L3,Trống rỗng. Không còn gì.
+DIALOGUE_PLAYER_EXAMINE_CALENDAR_L2,Lịch. Lại khoanh tròn.
+DIALOGUE_PLAYER_EXAMINE_MIRROR_L2,Khuôn mặt tao... mờ hơn.
+DIALOGUE_PLAYER_EXAMINE_DOOR_L2,Cửa. Không mở được.
+DIALOGUE_PLAYER_EXAMINE_WINDOW_L2,Cửa sổ. Bên ngoài là hư không.
+LORE_SCHOOL_BAG_L1,Cặp sách cũ. Tên tao.
+LORE_SCHOOL_BAG_L2,Bên trong: sách vở rách nát.
+LORE_SCHOOL_BAG_L3,Thẻ học sinh: Ảnh tao. Ngày cấp... 4 năm trước.
+LORE_PHONE_BROKEN_L1,Điện thoại vỡ màn hình.
+LORE_PHONE_BROKEN_L2,Tin nhắn cuối: 'Mẹ qua đời.'
+LORE_PHONE_BROKEN_L3,Hình nền: Ảnh gia đình. Giờ bị vỡ.
+LORE_PHONE_BROKEN_L4,Không thể mở. Hỏng hoàn toàn.
+CHOICE_DIARY_SHOW,Đưa cho Mika
+CHOICE_DIARY_HIDE,Giấu đi
+CHOICE_DIARY_READ_MORE,Đọc hết
+DIALOGUE_MIKA_DAY3_CONFRONT_CHOICE,...
+DIALOGUE_MIKA_DAY3_CONFRONT_A1,Có gì đó sai. Sai từ lâu rồi.
+DIALOGUE_MIKA_DAY3_CONFRONT_B1,Lịch cứ lặp đi lặp lại. Sao vậy?
+DIALOGUE_MIKA_DAY3_CONFRONT_C1,Mẹ... Chị không biết mẹ đâu.
+DIALOGUE_PLAYER_DAY2_WAKE,Hôm nay... có gì khác không?
+DIALOGUE_PLAYER_WAKEUP_DAY5,...Chuyện gì đang xảy ra?
+DIALOGUE_PLAYER_BED_DAY4,Tao sợ ngủ. Sợ ngày mai.
+DIALOGUE_MIKA_DAY3_DINNER_NORMAL,Ăn đi rồi ngủ. Mai sẽ... khác.
+DIALOGUE_MIKA_DAY5_OFFER_1,Chị biết em sợ. Chị cũng sợ.
+DIALOGUE_MIKA_DAY5_OFFER_2,Nhưng ở đây mãi... không phải là sống.
+DIALOGUE_MIKA_DAY5_OFFER_3,Em phải chọn. Ở lại đây, hay bước tiếp.
+DIALOGUE_PLAYER_BRUISE_EXAMINE_L2,Vết bầm... từ đâu ra?
+LORE_OWN_DIARY_L1,[Nhật ký riêng] 'Tao nhớ... điều gì đó.'
+LORE_OWN_DIARY_L2,Những trang cuối bị rách.
+LORE_OWN_DIARY_L3,Chữ viết run rẩy: 'Mẹ đã chết. CHẾT RỒI!'
+LORE_REPORT_CARD_L1,Bảng điểm cũ. Toàn điểm F.
+LORE_REPORT_CARD_L2,Chữ viết của giáo viên: 'Cần gặp phụ huynh.'
+LORE_PHONE_CHARGER_L1,Sạc điện thoại. Không có điện thoại.
+LORE_PHONE_CHARGER_L2,Điện thoại... ở đâu rồi?
+LORE_PHOTO_ALBUM_L1,Album ảnh. Nhiều ảnh bị rách.
+LORE_PHOTO_ALBUM_L2,Những khuôn mặt đã mất.
+LORE_CLOCK_FROZEN_L1,Đồng hồ dừng lại. 3:47 PM.
+LORE_CLOCK_FROZEN_L2,Luôn luôn là 3:47 PM.
+DIALOGUE_MIKA,...
+DIALOGUE_MIKA_DAY3_DINNER_NORMAL,Ăn đi rồi ngủ. Mai sẽ... khác.
+DIALOGUE_PLAYER_BRUISE_EXAMINE_L1,Vết bầm tím trên tay. Đau.
+TV_LIVING,Ti Vi
+SOFA_LIVING,Ghế Sofa
+SHELF_LIVING,Kệ Sách
+PHOTO_FRAME_1,...
+FRIDGE_KITCHEN,Tủ Lạnh
+CALENDAR_KITCHEN,Lịch
+WASHING_MACHINE,Máy Giặt
+STOVE_KITCHEN,Bếp
+LAUNDRY_BASKET,Giỏ Quần Áo
+MIRROR_BATHROOM,Gương
+RADIO_LIVING,Radio
+WINDOW_LIVING,Cửa Sổ
+TABLE_DINING,Bàn Ăn
+BOOK_SHELF_1,...
+PHOTO_FRAME_2,...
+PHOTO_FRAME_3,...
+PHONE_BROKEN,Điện Thoại Hỏng
+CLOCK_KITCHEN,Đồng Hồ
+NPC_MIKA,Mika
+BED_PLAYER,Giường
+DOOR_BEDROOM,Cửa Phòng Ngủ
+DIALOGUE_PLAYER_EXAMINE_SOFA_L1,Ghế sofa cũ kỹ. Mika thường ngồi đây xem TV.
+DIALOGUE_PLAYER_EXAMINE_TV_L1,Ti vi cũ. Màn hình vẫn hoạt động.
+DIALOGUE_PLAYER_EXAMINE_SHELF_L1,Kệ sách đầy bụi. Có vài cuốn truyện cũ.
+DIALOGUE_PLAYER_EXAMINE_FRIDGE_L1,Tủ lạnh đầy đồ ăn. May còn điện.
+DIALOGUE_PLAYER_EXAMINE_CALENDAR_L1,Lịch treo tường. Hôm nay là thứ 2.
+DIALOGUE_PLAYER_EXAMINE_MIRROR_L1,Gương soi. Tôi trông mệt mỏi.
+DIALOGUE_PLAYER_EXAMINE_WINDOW_L1,Cửa sổ nhìn ra ngoài. Bầu trời u ám.
+DIALOGUE_PLAYER_EXAMINE_TABLE_L1,Bàn ăn gỗ. Chỗ chúng tôi cùng ăn tối.
+DIALOGUE_PLAYER_EXAMINE_RADIO_L1,Radio cũ. Hiếm khi dùng.
+DIALOGUE_PLAYER_EXAMINE_STOVE_L1,Bếp ga cũ kỹ. Vẫn dùng được.
+DIALOGUE_PLAYER_EXAMINE_WASHING_MACHINE_L1,Máy giặt. Đống quần áo chưa giặt.
+DIALOGUE_PLAYER_EXAMINE_PHOTO_FRAME_L1,Ảnh của chúng tôi. Mika đang cười.

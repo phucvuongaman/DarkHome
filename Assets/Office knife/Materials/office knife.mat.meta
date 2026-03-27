@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3af52d899fb7fff46b72a90efbf9bf33
+timeCreated: 1493199023
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89088
+  packageName: Office knife
+  packageVersion: 1.0
+  assetPath: Assets/Office knife/Materials/office knife.mat
+  uploadId: 183068
